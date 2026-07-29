@@ -1,4 +1,4 @@
- # Student Markdown Materials
+# Student Markdown Materials
 
 This project is a practice space for learning Markdown.
 
@@ -14,9 +14,9 @@ This project is a practice space for learning Markdown.
 
 ## 2. Bold and Italic
 
-**This text is bold**  
-*This text is italic*  
-***This text is bold and italic***
+**Bold text**  
+*Italic text*  
+***Bold and italic text***
 
 ---
 
@@ -37,7 +37,7 @@ This project is a practice space for learning Markdown.
 ## 4. Blockquote
 
 > This is a blockquote.  
-> It is used to highlight important text.
+> It highlights important text.
 
 ---
 
@@ -47,19 +47,23 @@ Inline code: `print("Hello World")`
 
 Code block:
 
-
+  
 ---
 
 ## 6. Table
 
 | Name | Age | City |
 |------|-----|------|
-| Tom  | 52  | Naples |
+| Tom  | 52  | Medford |
 | Sam  | 34  | Tampa |
 | Jill | 29  | Denver |
 
 ---
 
-## 7. Summary
+## Summary
 
-This project demonstrates basic Markdown formatting including headings, lists, code blocks, tables, and more.
+This project is my practice space for learning and using Markdown.  
+It includes examples of headings, bold and italic text, lists, blockquotes, code blocks, and tables.  
+The goal is to build confidence working with Markdown formatting while creating a clear, organized document.
+
+ 
